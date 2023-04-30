@@ -1,0 +1,9 @@
+id,checkingpeer,checkedpeer,pointsamount
+2,gconn,tcocoa,1
+3,bperegri,tcocoa,2
+4,bperegri,gconn,1
+5,elevator,tcocoa,1
+1,gconn,bperegri,2
+6,chiter,gconn,1
+7,flexer,tcocoa,1
+8,tcocoa,chiter,1

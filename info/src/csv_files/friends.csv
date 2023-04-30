@@ -1,0 +1,9 @@
+id,peer1,peer2
+1,bperegri,gconn
+2,tcocoa,bperegri
+3,gconn,cmerlyn
+4,cmerlyn,tcocoa
+5,bperegri,cmerlyn
+6,strong,elevator
+7,elevator,tcocoa
+8,chiter,bperegri
